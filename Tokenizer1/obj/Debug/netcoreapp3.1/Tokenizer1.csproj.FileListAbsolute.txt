@@ -1,0 +1,13 @@
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\bin\Debug\netcoreapp3.1\Tokenizer1.exe
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\bin\Debug\netcoreapp3.1\Tokenizer1.deps.json
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\bin\Debug\netcoreapp3.1\Tokenizer1.runtimeconfig.json
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\bin\Debug\netcoreapp3.1\Tokenizer1.runtimeconfig.dev.json
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\bin\Debug\netcoreapp3.1\Tokenizer1.dll
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\bin\Debug\netcoreapp3.1\Tokenizer1.pdb
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\obj\Debug\netcoreapp3.1\Tokenizer1.csprojAssemblyReference.cache
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\obj\Debug\netcoreapp3.1\Tokenizer1.AssemblyInfoInputs.cache
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\obj\Debug\netcoreapp3.1\Tokenizer1.AssemblyInfo.cs
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\obj\Debug\netcoreapp3.1\Tokenizer1.csproj.CoreCompileInputs.cache
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\obj\Debug\netcoreapp3.1\Tokenizer1.dll
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\obj\Debug\netcoreapp3.1\Tokenizer1.pdb
+C:\Users\Adel_Kalu\source\repos\Tokenizer1\Tokenizer1\obj\Debug\netcoreapp3.1\Tokenizer1.genruntimeconfig.cache

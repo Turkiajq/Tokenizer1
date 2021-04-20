@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tokenizer1", "Tokenizer1\Tokenizer1.csproj", "{DE26A782-99C4-4B89-9F60-F2219EA2498B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE26A782-99C4-4B89-9F60-F2219EA2498B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE26A782-99C4-4B89-9F60-F2219EA2498B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE26A782-99C4-4B89-9F60-F2219EA2498B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE26A782-99C4-4B89-9F60-F2219EA2498B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7760281-CF3B-4AAB-9E9E-B50A8ED336EA}
+	EndGlobalSection
+EndGlobal
